@@ -13,13 +13,13 @@
 
 ## 在线体验
 
-访问 [Midjourney工具箱](https://你的GitHub Pages地址) 立即体验。
+访问 [Midjourney工具箱](暂无) 立即体验。
 
 ## 本地开发
 
 ```bash
 # 克隆项目
-git clone https://github.com/你的用户名/项目名.git
+git clone https://github.com/ziyitty/midjourney-toolbox.git
 
 # 安装依赖
 npm install
