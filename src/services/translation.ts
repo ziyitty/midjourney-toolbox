@@ -36,8 +36,8 @@ export const baiduTranslate: TranslationService = {
   name: '百度翻译',
   translate: async (text: string) => {
     try {
-      const appid = '20220824001317903';
-      const key = 'RvqQdEeu1NcDyhFfmsV_';
+      const appid = '';
+      const key = '';
       const salt = new Date().getTime().toString();
       const sign = CryptoJS.MD5(appid + text + salt + key).toString();
       
